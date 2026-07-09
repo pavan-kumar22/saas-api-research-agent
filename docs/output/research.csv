@@ -1,0 +1,101 @@
+category,description,authentication,self_serve,api_surface,mcp,buildability,blocker,evidence,verified,confidence,verification_notes,app
+CRM,Salesforce provides REST and SOAP APIs for accessing CRM data and functionality.,OAuth2,Yes,REST + SOAP,Yes,High,,https://developer.salesforce.com/docs/atlas/en-us/api_rest.meta/api_rest/intro_rest.htm,Needs Review,Medium,Official documentation blocks automated access (403),Salesforce
+Developer Platform,HubSpot API documentation tracking URL,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,"/clev?event=StartpageResultClick&sc=AR5cSbelfvYfIBaDvrp6Heacn7HlaYeCxi01M93jhNf265TGm70Atpm1rPU1US2hhfmWVG5K2WaCAsVucHM7o3SHXFVAEl&payload={""bdsSessionId"":""18907b756dff444a8bb44ca6ff520ca7"",""cheqId"":"""",""countryCode"":""IN"",""deviceType"":""mobile"",""endpoint"":""search.serp"",""hasGoogleAds"":false,""page_id"":""fm7KWUASjtgR9Nr7"",""queryCategory"":""web"",""segment"":""startpage.udog"",""session_id"":""tPAowFm1PLrNmZmY"",""surface"":""serp-web"",""transport"":""href-request""}",No,Low,Evidence URL unreachable,HubSpot
+CRM,"CRM platform for managing sales, deals, and customer interactions.",OAuth2,Yes,REST,No,High,,https://developers.pipedrive.com/docs/api/v1,Yes,High,,Pipedrive
+CRM,Attio is a modern CRM platform for relationship management and customer data.,API Key,Yes,REST,Unknown,High,,https://docs.attio.com/docs/overview,Yes,Medium,API Key not explicitly found,Attio
+CRM,CRM platform for managing customer relationships and interactions.,API Key,Yes,REST,Unknown,High,,https://docs.twenty.com/developers/extend/api,Yes,High,,Twenty
+Productivity,REST API for Podio collaboration and custom app platform.,OAuth2,Yes,REST,No,High,,https://developers.podio.com/,Yes,Medium,OAuth not explicitly found; REST not explicitly found,Podio
+CRM,"API for managing customer data, leads, contacts, and sales processes in Zoho CRM.",OAuth2,Yes,REST,Unknown,High,,https://www.zoho.com/crm/developer/docs/api/v8/api-references.html,Yes,High,,Zoho CRM
+CRM,"CRM API for managing leads, contacts, and activities.",API Key,Yes,REST,Unknown,High,,https://developer.close.com/api/overview,Yes,High,,Close
+CRM,Copper is a CRM platform for managing customer relationships and sales pipelines.,OAuth2,Yes,REST,Unknown,High,,https://developer.copper.co/api-reference/getting-started,Yes,High,,Copper
+CRM,DealCloud deal management and CRM platform API for financial services.,Unknown,Partial,REST,Unknown,Medium,,https://api.docs.dealcloud.com/docs,Yes,High,,DealCloud
+Support,"Customer service platform providing ticketing, live chat, and real-time communication tools for support teams.",OAuth2,Yes,REST,No,High,,https://developer.zendesk.com/api-reference/,Yes,Medium,OAuth not explicitly found; REST not explicitly found,Zendesk
+Support,"Intercom provides customer messaging APIs for support, marketing, and engagement via REST.",Bearer Token,Yes,REST,Unknown,High,,https://developers.intercom.com/docs/references/rest-api/api.intercom.io,Yes,Medium,Bearer token not explicitly found,Intercom
+Support,"Freshdesk provides REST APIs for managing tickets, contacts, and support operations.",API Key,Yes,REST,Unknown,High,,https://developers.freshdesk.com/api/,Yes,High,,Freshdesk
+CRM,"Front is a sales CRM enabling pipeline management, deal tracking, and customer relationship tools.",API Key,Yes,REST,Unknown,High,None,https://dev.frontapp.com/docs/welcome,Yes,High,,Front
+Developer Platform,Camera SDK providing API for image acquisition and processing,API Key,Yes,Other,No,High,None,https://docs.usepylon.com/pylon-docs/developer/api/api-reference,Yes,Medium,API Key not explicitly found,Pylon
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,LiveAgent
+Support,Customer support API for ticket management and team collaboration,API Key,Yes,REST,Unknown,High,None,https://help.plain.com/article/developer,Yes,Medium,REST not explicitly found,Plain
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Help Scout
+Support,Ecommerce customer support helpdesk platform turning service into growth channel.,Basic,Yes,REST,Unknown,High,Paid plan required,https://developers.gorgias.com/reference/introduction,Yes,High,,Gorgias
+Support,Customer support platform API for managing conversations and agents.,OAuth2,Yes,REST,Unknown,Medium,None,https://developer.gladly.com/rest/,Yes,High,,Gladly
+Messaging,"Slack provides APIs for messaging, chat, and workspace integration.",OAuth2,Yes,REST,Unknown,High,None,https://docs.slack.dev/apis/,Yes,Medium,OAuth not explicitly found; REST not explicitly found,Slack
+Developer Platform,"Cloud communications platform enabling voice, SMS, and video integration via APIs",Basic,Yes,REST,Unknown,High,None,https://twilio-api.readme.io/reference/getting-started-with-your-api,Yes,High,,Twilio
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Zoho Cliq
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Lark (Larksuite)
+Messaging,Team messaging and collaboration platform with API access for integrations.,API Key,Yes,REST,Unknown,Medium,None,https://pumble.com/help/integrations/automation-workflow-integrations/api-keys-integration/,Yes,Medium,REST not explicitly found,Pumble
+Developer Platform,"Discord API enables bots, webhooks, and integration with Discord services.",Bearer Token,Yes,REST,Unknown,High,None,https://docs.discord.com/developers/reference,Yes,High,,Discord
+Messaging,Telegram API enables bot development and messaging integration,API Key,Yes,REST,Unknown,High,None,https://core.telegram.org/api/obtaining_api_id,Yes,Medium,API Key not explicitly found; REST not explicitly found,Telegram
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,WhatsApp Business
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Aircall
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Vonage
+Marketing,"Programmatic management of Google Ads campaigns, ad groups, and performance reporting.",OAuth2,Partial,Other,Unknown,High,None,https://developers.google.com/google-ads/api/docs/get-started/introduction,Yes,High,,Google Ads
+Marketing,Meta Ads Marketing API for advertising management,OAuth2,Yes,REST,Unknown,High,None,https://developers.facebook.com/documentation/ads-commerce/marketing-api/,Yes,High,,Meta Ads
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,LinkedIn Ads
+Developer Platform,"API for accessing GoHighLevel CRM, marketing, and automation features.",Bearer Token,Yes,REST,Unknown,High,None,https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api-documentation,Yes,Medium,Bearer token not explicitly found,GoHighLevel
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Mailchimp
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Klaviyo
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,systeme.io
+Marketing,Visual discovery and marketing platform API,OAuth2,Yes,REST,No,High,None,https://developers.pinterest.com/docs/,Yes,High,,Pinterest
+Developer Platform,Meta's decentralized social messaging platform for real‑time conversations.,OAuth2,Yes,REST,Unknown,High,None,https://developers.facebook.com/documentation/threads/get-started/,Yes,High,,Threads (Meta)
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,SendGrid
+Commerce,Shopify API enables building e-commerce apps and integrations for stores.,OAuth2,Yes,REST + GraphQL,Unknown,High,None,https://shopify.dev/docs/api,Yes,Medium,OAuth not explicitly found,Shopify
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,WooCommerce
+Commerce,"RESTful API for managing BigCommerce storefronts, products, orders, and customer data.",OAuth2,Yes,REST + GraphQL,Unknown,High,None,https://docs.bigcommerce.com/developer/api-reference/about-our-apis,Yes,Medium,OAuth not explicitly found,BigCommerce
+Commerce,"API for managing e-commerce operations including products, orders, and customer data.",OAuth2,Yes,REST,Unknown,High,None,https://developer.salesforce.com/docs/commerce/commerce-api/overview,Needs Review,Medium,Official documentation blocks automated access (403),Salesforce Commerce Cloud
+Commerce,RESTful APIs for Adobe Commerce enabling integration of e-commerce functions.,OAuth2,Yes,REST + GraphQL,Unknown,High,None,https://developer.adobe.com/commerce/webapi/rest/,Yes,High,,Magento (Adobe Commerce)
+Commerce,"API for managing Squarespace commerce, orders, products, customers, and storefronts.",OAuth2,Yes,REST,Unknown,High,Paid plan required,https://developers.squarespace.com/commerce-apis/overview,Yes,High,,Squarespace
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Ecwid
+Commerce,"Gumroad API enables creators to manage products, sales, and customers programmatically.",Bearer Token,Yes,REST,Unknown,High,None,https://gumroad.com/api,Yes,Medium,Bearer token not explicitly found; REST not explicitly found,Gumroad
+Commerce,API for managing Amazon selling partner integrations and data access.,OAuth2,Partial,REST,Unknown,High,Partner approval,https://developer-docs-amazon-shipping.readme.io/apis/docs/what-is-the-selling-partner-api,Yes,High,,Amazon Selling Partner
+CRM,Fan engagement and community management platform for events and organizations.,OAuth2,Yes,REST,Unknown,High,None,https://apidocs.fan/,Yes,High,,fanbasis
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,DataForSEO
+Marketing,SE Ranking offers SEO and digital marketing analytics tools.,API Key,Yes,REST,Unknown,High,Paid plan required,https://seranking.com/api/data/getting-started/,Yes,High,,SE Ranking
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Ahrefs
+Developer Platform,Web scraping API and Python SDK for extracting structured data from websites.,API Key,Yes,REST,Unknown,High,None,https://mrscraper.com/start/integrations,Yes,Medium,API Key not explicitly found; REST not explicitly found,MrScraper
+Developer Platform,"Platform for web scraping, automation, and data extraction via API and actors.",Bearer Token,Yes,REST,Unknown,High,None,https://docs.apify.com/api/v2,Yes,High,,Apify
+Developer Platform,"API for scraping, crawling, and extracting structured data from websites.",API Key,Yes,REST,Unknown,High,None,https://docs.firecrawl.dev/api-reference/v2-introduction,Yes,High,,Firecrawl
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Bright Data
+Other,API reference for Sherlock software,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,https://developer.ansys.com/docs/sherlock-apis-2025-r1/index.md,No,Low,HTTP 403,Sherlock
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Waterfall.io
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Clay
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,GitHub
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Vercel
+Developer Platform,"Manage sites, functions, deployments, and settings via Netlify's REST API.",Bearer Token,Yes,REST,No,High,None,https://docs.netlify.com/api-and-cli-guides/api-guides/get-started-with-api/,Yes,High,,Netlify
+Infrastructure,"Cloudflare provides CDN, DNS, security, and edge computing services via API.",Bearer Token,Yes,REST + GraphQL,Unknown,High,None,https://developers.cloudflare.com/api/,Yes,Medium,Bearer token not explicitly found; GraphQL not explicitly found,Cloudflare
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Supabase
+Database,Neo4j is a native graph database with Cypher query language and multiple driver APIs.,Basic,Yes,REST,Unknown,High,None,https://neo4j.com/docs/,Yes,High,,Neo4j
+Database,Cloud data warehouse platform providing REST API for management and query execution.,OAuth2,Yes,REST,Unknown,High,None,https://docs.snowflake.cn/en/developer-guide/snowflake-rest-api/reference,No,Low,Evidence URL unreachable,Snowflake
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,MongoDB Atlas
+Infrastructure,"Datadog provides APIs for monitoring, logging, and analytics across infrastructure and applications.",API Key,Yes,REST,Unknown,High,None,https://docs.datadoghq.com/api/latest/,Yes,High,,Datadog
+Developer Platform,Error tracking and performance monitoring for software applications.,Bearer Token,Yes,REST,Unknown,High,None,https://docs.sentry.io/api/,Yes,Medium,Bearer token not explicitly found; REST not explicitly found,Sentry
+Productivity,"Notion API enables integration with workspaces, pages, databases, and blocks for notes and project management.",OAuth2,Yes,REST,Unknown,High,None,https://developers.notion.com/reference/intro,Yes,High,,Notion
+Database,"REST API for Airtable bases to create, read, update, and delete records in tables.",Bearer Token,Yes,REST,Unknown,High,None,https://airtable.com/developers/web/api/introduction,Yes,Medium,Bearer token not explicitly found,Airtable
+Productivity,Linear provides a GraphQL API for issue tracking and project management.,OAuth2,Yes,GraphQL,Unknown,High,None,https://linear.app/developers/graphql,No,Low,HTTP 503,Linear
+Productivity,Jira Cloud REST API for issue tracking and project management.,OAuth2,Yes,REST,Unknown,High,None,https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/,Yes,High,,Jira
+Productivity,"Asana REST API provides access to tasks, projects, and workspaces for integration.",OAuth2,Yes,REST,Unknown,High,None,https://developers.asana.com/docs/api-features,Yes,High,,Asana
+Productivity,"Monday.com GraphQL API enables programmatic access to boards, items, and workflow automation.",Bearer Token,Yes,GraphQL,Unknown,High,None,https://developer.monday.com/api-reference/,Yes,High,,Monday.com
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,ClickUp
+Productivity,Coda is a collaborative document platform with tables and API access.,Bearer Token,Yes,REST,No,High,None,https://coda.io/developers,Yes,High,,Coda
+Productivity,"Smartsheet API provides RESTful access to sheets, workspaces, and automation for work management.",OAuth2,Yes,REST,Unknown,High,None,https://developers.smartsheet.com/api/smartsheet/openapi,Yes,Medium,OAuth not explicitly found; REST not explicitly found,Smartsheet
+Finance,"REST API for Harvest time tracking, expense, and invoice management.",OAuth2,Yes,REST,No,High,None,https://harvest.com/support/api/,Yes,Medium,OAuth not explicitly found; REST not explicitly found,Harvest
+Commerce,"Stripe provides APIs for payments, billing, and financial services integration.",API Key,Yes,REST,Unknown,High,None,https://docs.stripe.com/api,Yes,High,,Stripe
+Finance,"Financial data aggregation API for accounts, transactions, and authentication.",API Key,Yes,REST,No,High,None,https://plaid.com/docs/api/,Yes,High,,Plaid
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Binance
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Paygent Connect
+Finance,Payment API for processing transactions and managing financial operations.,Unknown,Yes,REST,Unknown,High,None,https://www.ipayx.ai/docs/api?lang=en,Yes,Medium,REST not explicitly found,iPayX
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,QuickBooks
+Unknown,Extraction Failed,Unknown,Unknown,Unknown,Unknown,Low,LLM Error,https://developer.xero.com/documentation/api/accounting/overview,Yes,High,,Xero
+Finance,"Brex provides corporate cards, expense management, and financial APIs for businesses.",OAuth2,Yes,REST,Unknown,High,None,https://www.brex.com/,Yes,Medium,OAuth not explicitly found,Brex
+Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,https://developer.monday.com/api-reference/docs/getting-started,Yes,High,,Ramp
+Other,No relevant documentation available,Unknown,No,Other,Unknown,Low,No public API,Unknown,No,Low,Evidence URL unreachable,PitchBook
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,NotebookLM
+AI,Otter AI API for speech transcription and meeting notes.,API Key,Yes,REST,No,High,Paid plan required,https://otter.ai/api/docs/,Yes,Medium,API Key not explicitly found; REST not explicitly found,Otter AI
+AI,API for AI meeting transcription and summarization.,Bearer Token,Yes,REST,Unknown,High,None,https://developers.fathom.ai/api-overview,Yes,Medium,Bearer token not explicitly found,Fathom
+Developer Platform,Provides REST endpoints for interacting with Consensus blockchain data and services.,API Key,Yes,REST,No,Medium,None,https://docs.consensus.app/,Yes,Medium,REST not explicitly found,Consensus
+AI,AI-powered API for parsing and extracting structured data from complex documents.,API Key,Yes,REST,Unknown,High,None,https://docs.reducto.ai/quickstart,Yes,High,,Reducto
+AI,REST API to programmatically create and manage Devin AI software engineering sessions.,Bearer Token,Yes,REST,Unknown,High,None,https://docs.devin.ai/api-reference/overview,Yes,High,,Devin
+Unknown,Extraction Failed,Unknown,Unknown,Unknown,Unknown,Low,LLM Error,https://deepwiki.com/higgsfield-ai/higgsfield-client/4-client-api-reference,Yes,High,,higgsfield
+Other,Command-line tool for generating Mermaid diagrams,Unknown,Yes,None,Unknown,High,None,https://mermaid.ai/open-source/config/mermaidCLI.html,Yes,High,,Mermaid CLI
+Developer Platform,API to retrieve transcripts from YouTube videos.,API Key,Yes,REST,Unknown,High,None,https://transcriptapi.com/docs/api/,Yes,High,,YouTube Transcript
+Unknown,Search Failed,Unknown,Unknown,Unknown,Unknown,Low,Search Failed,,No,Low,No search results,Grain
